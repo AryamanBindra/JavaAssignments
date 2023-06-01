@@ -1,0 +1,5 @@
+Enums:
+	Some Custom constants
+	Two predefined methods
+		1. values() --> return all constants in array format
+		2. valueof() --> returns the value (return type)

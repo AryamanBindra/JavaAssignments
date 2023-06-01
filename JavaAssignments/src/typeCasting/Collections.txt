@@ -1,0 +1,4 @@
+Collections:
+	1. architecture of a set of interfaces/classes
+	2. Collections help to perform operations like searching,
+	 sorting, insertion, manipulation, and deletion of object

@@ -1,0 +1,10 @@
+Wrapper Classes
+
+int --> Integer
+char --> Character
+boolean --> Boolean
+long --> Long
+float --> Float
+byte --> Byte
+double --> Double
+short --> Short

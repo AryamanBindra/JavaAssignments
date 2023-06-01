@@ -1,0 +1,19 @@
+List:
+	List is an ordered collection.
+	List can contain duplicates
+	Maintains the insertion order
+	Elements can be accessed by their position
+	Classes --> ArrayList, LinkedList, Vector
+	
+Array: Fixed size, Homogenous data(needs confirmation)
+ArrayList: Arraylist is dynamic, It can take hetrogenous data(needs confirmation)
+
+Set:
+	Set do not allow to have duplicate values
+	Hashset, LinkedHashset allows one null value
+	Hashset has no order
+	LinkedHashset, (Insertion), Treeset maintains ascending order
+	Treeset doesn't allow null values
+	
+	
+Map:

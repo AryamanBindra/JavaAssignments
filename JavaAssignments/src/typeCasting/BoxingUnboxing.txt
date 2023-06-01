@@ -1,0 +1,5 @@
+Boxing and Unboxing:
+	Boxing: Automatic conversion of primitive type to the respective
+			wrapper class obj.
+	Unboxing: Converting object of a wrapper type to its respective
+			primitive type.

@@ -1,0 +1,17 @@
+FILE SYSTEM
+	.txt
+	.properties
+	.xlsx
+	
+Java i/o
+	Operations: Creating a file, reading a file, writing to a file,
+	info of the file, deleting a file
+	
+Stream in java:
+	Flow of data (Character, byte) --> 
+	Byte stream --> Input stream class (Reading), Output stream(Write) 
+	Character stream --> Reader class, Writer class
+
+canRead();
+createNewFile();
+	

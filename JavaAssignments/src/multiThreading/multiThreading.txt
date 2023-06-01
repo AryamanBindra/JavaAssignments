@@ -1,0 +1,3 @@
+Multi-Threading:
+	1. Extending class thread
+	2. Implementing interface called as runnable.
